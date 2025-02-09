@@ -28,8 +28,8 @@ Este projeto foi desenvolvido utilizando o Raspberry Pi Pico, e envolve o contro
 ## Como Compilar e Carregar o Código
 1. Clone o repositório.
 2. Em seguida utilizando a extensão da raspberry pi pico pelo VSCode, **você deve importar o projeto para poder executar os arquivos em seu computador**.
-3. Compile o código e faça o upload para o Raspberry Pi Pico.
-4. Conecte o Raspberry Pi Pico a uma porta USB para comunicação serial.
+3. Compile o código e faça o upload para a placa de desenvolvimento BitDogLab.
+4. Conecte a placa de desenvolvimento BitDogLab a uma porta USB para comunicação serial.
 
  **Vídeo Demonstrativo**:
 Vídeo de Demonstração
