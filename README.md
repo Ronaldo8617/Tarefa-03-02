@@ -1,6 +1,6 @@
-# Projeto Raspberry Pi Pico: Tarefa 03/02
+# Tarefa 03/02
 
-Este projeto foi desenvolvido utilizando o Raspberry Pi Pico, e envolve o controle de LEDs, exibição de mensagens em um display OLED SSD1306, e controle de uma matriz de LEDs. O sistema também responde a entradas de botões e interações via comunicação serial.
+Este projeto foi desenvolvido utilizando  a placa de desenvolvimento BitDogLab, e envolve o controle de LEDs, exibição de mensagens em um display OLED SSD1306, e controle de uma matriz de LEDs. O sistema também responde a entradas de botões e interações via comunicação serial.
 
 ## Funcionalidades
 - **Uso de Interrupções**: Todas as funcionalidades relacionadas aos botões são implementadas utilizando rotinas de interrupção, garantindo um desempenho eficiente e evitando polling contínuo.
@@ -27,12 +27,11 @@ Este projeto foi desenvolvido utilizando o Raspberry Pi Pico, e envolve o contro
 
 ## Como Compilar e Carregar o Código
 1. Clone o repositório.
-2. Em seguida utilizando a extensão da raspberry pi pico pelo VSCode, **você deve importar o projeto para poder executar os arquivos em seu computador**.
-3. Compile o código e faça o upload para a placa de desenvolvimento BitDogLab.
-4. Conecte a placa de desenvolvimento BitDogLab a uma porta USB para comunicação serial.
+2. Compile o código e faça o upload para a placa de desenvolvimento BitDogLab.
+3. Conecte a placa de desenvolvimento BitDogLab a uma porta USB para comunicação serial.
 
  **Vídeo Demonstrativo**:
 Vídeo de Demonstração
-Link para o vídeo de demonstração 
+https://youtu.be/MbdaigGABFg 
 
 
